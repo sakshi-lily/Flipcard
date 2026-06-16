@@ -71,3 +71,8 @@ Contributions are welcome!
 ```bash
 git checkout -b feature/new-feature
 ```
+3. Commit your changes
+
+```bash
+git commit -m "Add new feature"
+```
