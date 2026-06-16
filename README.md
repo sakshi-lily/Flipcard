@@ -18,7 +18,7 @@ A simple and interactive Flip Card component built using HTML, CSS, and JavaScri
 
 ## 📂 Project Structure
 
-
+```
 flipcard-project/
 │
 ├── index.html
@@ -26,5 +26,7 @@ flipcard-project/
 ├── script.js
 └── assets/
     └── preview.png
+```
+
 
 
