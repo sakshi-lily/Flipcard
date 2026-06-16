@@ -45,3 +45,9 @@ cd flipcard-project
 3. Open `index.html` in your browser.
 
 
+## 🎯 Usage
+
+- Hover over the card (or click, depending on implementation).
+- The card flips to reveal content on the back side.
+- Customize text, images, and styling as needed.
+
