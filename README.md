@@ -9,3 +9,11 @@ A simple and interactive Flip Card component built using HTML, CSS, and JavaScri
 - Clean and modern UI
 - Easy to customize
 - Lightweight and fast
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+  
