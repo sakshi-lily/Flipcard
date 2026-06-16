@@ -60,3 +60,14 @@ You can modify:
 - Colors and fonts
 - Front and back card content
 
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a feature branch
+
+```bash
+git checkout -b feature/new-feature
+```
