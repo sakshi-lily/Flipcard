@@ -16,4 +16,15 @@ A simple and interactive Flip Card component built using HTML, CSS, and JavaScri
 - CSS3
 - JavaScript
 
-  
+## 📂 Project Structure
+
+
+flipcard-project/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── preview.png
+
+
