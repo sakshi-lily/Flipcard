@@ -51,3 +51,12 @@ cd flipcard-project
 - The card flips to reveal content on the back side.
 - Customize text, images, and styling as needed.
 
+## 💡 Customization
+
+You can modify:
+
+- Card dimensions in `style.css`
+- Animation speed
+- Colors and fonts
+- Front and back card content
+
