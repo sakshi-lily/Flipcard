@@ -81,3 +81,4 @@ git commit -m "Add new feature"
 ```bash
 git push origin feature/new-feature
 ```
+5. Open a Pull Request
